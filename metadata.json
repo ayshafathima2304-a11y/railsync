@@ -1,0 +1,6 @@
+{
+  "name": "RailSync",
+  "description": "Intelligent Train Operations & Dynamic ETA System — Advanced coaching train ETA forecasting, delay intelligence, predictive dispatch, and passenger disruption response.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
