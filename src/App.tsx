@@ -1,6 +1,6 @@
 import React from 'react';
 import { RailSyncProvider, useRailSync } from './context/RailSyncContext';
-import { RailSyncHeader } from './components/common/RailSyncHeader';
+import { RailSyncHeader } from './components/common/RailSyncHeader.tsx';
 import { RailSyncSidebar } from './components/common/RailSyncSidebar';
 import { AppStatusBar } from './components/common/AppStatusBar';
 import { MobileAppBottomNav } from './components/common/MobileAppBottomNav';
